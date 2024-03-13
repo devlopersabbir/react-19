@@ -1,5 +1,8 @@
 {
-	"dependencies": {
-		"simple-git": "^3.23.0"
-	}
+  "name": "react",
+  "type": "module",
+  "version": "0.0.1",
+  "dependencies": {
+    "simple-git": "^3.23.0"
+  }
 }
